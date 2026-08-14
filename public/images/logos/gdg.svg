@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="170 140 260 175">
+  <defs>
+    <style>
+      .cls-2 { fill: #ffa600; }
+      .cls-3 { fill: #1e1e1e; }
+      .cls-4 { fill: #1f86fb; }
+      .cls-5 { fill: #00aa47; }
+      .cls-8 { fill: #fd2b25; }
+    </style>
+  </defs>
+  <g>
+    <rect class="cls-8" x="179" y="182.6" width="114.4" height="49.4" rx="24.7" ry="24.7" transform="translate(-76.6 176.8) rotate(-35.7)"/>
+    <rect class="cls-4" x="211.5" y="188.1" width="49.4" height="114.4" rx="24.7" ry="24.7" transform="translate(-100.8 294) rotate(-54.3)"/>
+    <rect class="cls-2" x="306.6" y="220.6" width="114.4" height="49.4" rx="24.7" ry="24.7" transform="translate(-74.8 258.4) rotate(-35.7)"/>
+    <rect class="cls-5" x="339.1" y="150.1" width="49.4" height="114.4" rx="24.7" ry="24.7" transform="translate(-16.9 381.7) rotate(-54.3)"/>
+  </g>
+</svg>
