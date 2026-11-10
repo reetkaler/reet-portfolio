@@ -21,7 +21,7 @@ const projects: Project[] = [
       "/images/projects/intervue-3.jpg",
     ],
     description: [
-      "Built a full-stack AI mock interview platform, used by 35+ users, that scores responses via Whisper transcription, Claude-based grading, and MediaPipe body-language tracking.",
+      "Built a full-stack AI mock interview platform, used by 50+ users, that scores responses via Whisper transcription, Claude-based grading, and MediaPipe body-language tracking.",
       "Implemented a LeetCode-style coding judge with sandboxed Judge0 execution and cost-safety guardrails (per-user quotas, idempotency checks, Turnstile bot verification).",
     ],
     tech: ["Next.js", "FastAPI", "Supabase", "Whisper", "Claude API", "MediaPipe"],

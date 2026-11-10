@@ -19,7 +19,7 @@ const jobs: Job[] = [
     bullets: [
       "Revamped small business card account screens, viewed by 8M+ customers daily",
       "Developed a feature-flagged enhancement to the card-decline notification API, adding second- and third-person messaging across 4 decline types and refactoring widget-building logic into composable, testable functions",
-      "Wrote 250+ lines of Jest tests covering a dozen decline-messaging scenarios and edge cases, enabling safe, incremental rollout via feature flags",
+      "Wrote automated tests covering a dozen decline-messaging scenarios and edge cases, enabling safe, incremental rollout via feature flags",
     ],
   },
   {
